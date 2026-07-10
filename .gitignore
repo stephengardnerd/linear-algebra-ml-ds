@@ -1,0 +1,47 @@
+# --- Private: keep the certificate local, never publish ---
+/Gardner_Linear Algebra Certificate.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Data (keep the repo light — add exceptions as needed)
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+!resources/**/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Secrets
+.env
+*.key
+*.pem
