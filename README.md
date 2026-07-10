@@ -22,6 +22,7 @@ Notes, code, and problem sets for **Linear Algebra for Machine Learning and Data
 | `notebooks/` | Jupyter notebooks: labs, experiments, worked examples |
 | `problem-sets/` | Practice problems and solutions |
 | `resources/` | Cheatsheets, references, datasets |
+| `Deeplearning.ai_Linear Algebra/` | Downloaded course materials (labs, slides, quizzes) |
 
 ## Progress
 
