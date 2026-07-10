@@ -26,7 +26,7 @@ dist/
 *.egg-info/
 .eggs/
 
-# Data (keep the repo light — add exceptions as needed)
+# Data (keep the repo light; add exceptions as needed)
 *.csv
 *.tsv
 *.parquet
